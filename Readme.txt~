@@ -48,7 +48,6 @@ n) After that it's also checked with valgrind ./IN to check memory leakage.
 o) But we did not find any leakage.
 p) All the data which received or send in send function stored in mac_hs_logfiles directory as name of harq.txt.
 q)  All the message queue has been also deleted after completion of all project.
-r) Github branch change
 /************************************************************************************************************************************
 *                                              end of file readme.txt                                                                   *
 ************************************************************************************************************************************/
